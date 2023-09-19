@@ -74,6 +74,12 @@ if __name__ == "__main__":
     main()
 ```
 
+# Quick Survey
+
+- [ ] Found Your Book?
+- [ ] Was this helpful?
+- [ ] Would you use this again?
+
 # Picture of where we use this key:
 
 We use this "```" at the beginning and the very end of the code.
