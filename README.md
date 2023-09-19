@@ -97,5 +97,5 @@ ZeroDivisionError: division by zero
 
 
 # References 
-https://github.com/msa321/github-docs-example/edit/main/ <sup>[1]</sup>
+https://github.com/msa321/github-docs-example/edit/main <sup>[1]</sup>
 
