@@ -4,7 +4,7 @@
 
 Codeblocks in a nutshell makes it *very easy* for **people** to ***copy, paste and share code.*** We use this whenever possible.
 
-###As an example:
+##As an example:
 
 def factorial(n):
     if n == 0:
