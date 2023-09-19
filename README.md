@@ -18,6 +18,7 @@ class Library:
         else:
             print("Book with the same ISBN already exists.")
 
+
     def search_book(self, title):
         found_books = []
         for ISBN, book_info in self.books.items():
@@ -37,6 +38,7 @@ class Library:
             print("Available books in the library:")
             for ISBN, book_info in self.books.items():
                 print(f"ISBN: {ISBN}, Title: {book_info['Title']}, Author: {book_info['Author']}")
+
 
 def main():
     library = Library()
@@ -65,6 +67,7 @@ def main():
             break
         else:
             print("Invalid choice. Please choose a valid option.")
+
 
 if __name__ == "__main__":
     main()
