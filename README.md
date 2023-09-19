@@ -12,7 +12,6 @@ def factorial(n):
     else:
         return n * factorial(n - 1)
 
-# Input the number for which you want to calculate the factorial
 num = int(input("Enter a number: "))
 
 if num < 0:
