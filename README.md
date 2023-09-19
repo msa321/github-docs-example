@@ -81,3 +81,15 @@ We use this "```" at the beginning and the very end of the code.
 
 ![image](https://github.com/msa321/github-docs-example/assets/113797111/120f282a-a7bb-45d7-8c93-a331dc9b3af8)
 
+
+
+# Example of error below:
+
+```Bash
+Traceback (most recent call last):
+  File "your_python_script.py", line 4, in <module>
+    result = divide_by_zero()
+  File "your_python_script.py", line 2, in divide_by_zero
+    return 5 / 0
+ZeroDivisionError: division by zero
+```
