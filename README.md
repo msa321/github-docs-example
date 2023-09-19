@@ -8,9 +8,9 @@ Codeblocks in a nutshell makes it *very easy* for **people** to ***copy, paste a
 
 ```py
 class Library:
+
     def __init__(self):
         self.books = {}
-
     def add_book(self, title, author, ISBN):
         if ISBN not in self.books:
             self.books[ISBN] = {'Title': title, 'Author': author}
@@ -41,6 +41,7 @@ class Library:
 
 
 def main():
+
     library = Library()
     
     while True:
