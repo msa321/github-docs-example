@@ -101,6 +101,11 @@ ZeroDivisionError: division by zero
 ```
 
 
+# Info Table
+
+| Name | Code |
+| --- | --- |
+| Test | Test2 |
 
 # References 
 https://github.com/msa321/github-docs-example/edit/main <sup>[1]</sup>
