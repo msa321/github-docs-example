@@ -103,9 +103,16 @@ ZeroDivisionError: division by zero
 
 # Info Table
 
+```md
 | Name | Code | Emoji |
 | --- | --- | ---|
 | Test | Test2 | :desktop_computer: |
+```
+
+| Name | Code | Emoji |
+| --- | --- | ---|
+| Test | Test2 | :desktop_computer: [<sup>[2]</sup>](#References) |
+
 
 # References 
 - [Github Main](https://github.com/msa321/github-docs-example/edit/main) <sup>[1]</sup>
