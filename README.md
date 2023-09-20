@@ -103,10 +103,11 @@ ZeroDivisionError: division by zero
 
 # Info Table
 
-| Name | Code |
-| --- | --- |
-| Test | Test2 |
+| Name | Code | Emoji |
+| --- | --- | ---|
+| Test | Test2 | :desktop_computer: |
 
 # References 
-https://github.com/msa321/github-docs-example/edit/main <sup>[1]</sup>
+- [Github Main](https://github.com/msa321/github-docs-example/edit/main) <sup>[1]</sup>
+- [Emoji Sheet Cheat](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer) <sup>[2]</sup>
 
